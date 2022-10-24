@@ -6,7 +6,6 @@
 - [Fall 2021](https://github.com/GC210GP/wiki-212)
 - [[Final] Spring 2022](https://github.com/GC210GP/wiki-221)
 
-<br>
 
 ## API
 API는 링크 참조
